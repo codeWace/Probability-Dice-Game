@@ -46,7 +46,7 @@ License file included as assets/fonts/OFL.txt
 
 ## Dice Asset:
 2D Dice by Touzi
-Licensed under CC0 (Public Domain) — free to use, attribution given voluntarily
+Licensed under CC0 (Public Domain) - free to use, attribution given voluntarily
 License file included as assets/dice/LICENSE.txt
 
 
