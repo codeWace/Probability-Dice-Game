@@ -32,11 +32,9 @@ Simple retro UI, smooth dice animations, and educational fun for all ages.
    ```bash
    cd "Probability Dice Game"
 2. Install dependencies:
-   Copy code:
    ```bash
    pip install pygame
 3. Run the game:
-   Copy code:
    ```bash
    python main.py
 
