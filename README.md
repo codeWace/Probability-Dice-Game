@@ -54,7 +54,8 @@ Press Start 2P by The Press Start 2P Project Authors (CodeMan38)
 - This project is for educational and non-commercial purposes.
 - All assets and fonts are used under their respective licenses.
 
-## Screenshots
+## Gameplay Preview
+![Game](screenshots/gameplay1.png)
 
 
 ## Notes
