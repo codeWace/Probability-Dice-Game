@@ -58,7 +58,7 @@ Press Start 2P by The Press Start 2P Project Authors (CodeMan38)
 
 
 ## Notes
-1- Questions and score sizes are adjustable in main.py under the font definitions.
-2- Dice roll animation can be adjusted by changing the frame speed in main.py.
-3- The background is static for smooth performance but can be replaced or animated.
+1. Questions and score sizes are adjustable in main.py under the font definitions.
+2. Dice roll animation can be adjusted by changing the frame speed in main.py.
+3. The background is static for smooth performance but can be replaced or animated.
 
