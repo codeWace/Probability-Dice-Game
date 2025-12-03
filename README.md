@@ -41,20 +41,20 @@ Simple retro UI, smooth dice animations, and educational fun for all ages.
 ## Credits & Licenses
 1- Font:
 Press Start 2P by The Press Start 2P Project Authors (CodeMan38)
-Licensed under the SIL Open Font License 1.1
-License file included as assets/fonts/OFL.txt
+. Licensed under the SIL Open Font License 1.1
+. License file included as assets/fonts/OFL.txt
 
 ## Dice Asset:
 2D Dice by Touzi
-Licensed under CC0 (Public Domain) - free to use, attribution given voluntarily
-License file included as assets/dice/LICENSE.txt
+. Licensed under CC0 (Public Domain) - free to use, attribution given voluntarily
+. License file included as assets/dice/LICENSE.txt
 
 
 ## License
 - This project is for educational and non-commercial purposes.
 - All assets and fonts are used under their respective licenses.
 
-Screenshots
+## Screenshots
 
 
 ## Notes
