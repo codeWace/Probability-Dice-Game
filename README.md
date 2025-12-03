@@ -28,19 +28,17 @@ Simple retro UI, smooth dice animations, and educational fun for all ages.
    git clone https://github.com/codeWace/Probability-Dice-Game.git
 
 ## Navigate to the game folder:
-bash
-Copy code
-cd "Probability Dice Game"
-Install dependencies:
-
-bash
-Copy code
-pip install pygame
-Run the game:
-
-bash
-Copy code
-python main.py
+1. Copy code:
+   ```bash
+   cd "Probability Dice Game"
+2. Install dependencies:
+   Copy code:
+   ```bash
+   pip install pygame
+3. Run the game:
+   Copy code:
+   ```bash
+   python main.py
 
 ## Credits & Licenses
 1- Font:
