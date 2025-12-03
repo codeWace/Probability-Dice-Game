@@ -56,7 +56,7 @@ Press Start 2P by The Press Start 2P Project Authors (CodeMan38)
 
 ## Gameplay Preview
 ![Game](screenshots/gameplay1.png)
-
+![Game](screenshots/gameplay2.png)
 
 ## Notes
 1. Questions and score sizes are adjustable in main.py under the font definitions.
